@@ -264,7 +264,7 @@ Para el siguiente ejercicio utiliza la lista de proyectos Rails de código abier
 
 1. Describa 1 o más patrones de diseño que podrían ser aplicados al diseño del sistema.
  
-El patrón más comun usado en los proyectos es Active Record el cual define una forma de acceder a los datos de una base de datos. Se envolverá la tabla en una clase desde la que se podrá realizar inserciones.
+Uno de los modelos de diseño es MVC así como también el patrón ActiveRecord usado en los proyectos el cual define una forma de acceder a los datos de una base de datos. Se envolverá la tabla en una clase desde la que se podrá realizar inserciones.
 
 
 2. Dado un sistema simple que responde a una historia de usuario concreta, analice y elija un paradigma de diseño adecuado
@@ -273,7 +273,7 @@ Un paradigma de diseño adecuado para las historias de usuario puede ser la prog
 
 3. Analice y elija una arquitectura software apropiada que se ajuste a una historia de usuario concreta de este sistema. ¿La implementación en el sistema de esa historia de usuario refleja su idea de arquitectura?
 
-La arquitectura MVC (Model View Controller)..
+La arquitectura de Microservicios ya que se podria relacionar ciertas historias con un microservicio y mejorar el concepto, las definiciones y funcionalidades del sistema.
 
 ***
 
